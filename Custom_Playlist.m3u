@@ -1,0 +1,23 @@
+#EXTM3U
+
+# UK National
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One UK" group-title="UK",BBC One UK
+https://iptv-org.github.io/iptv/countries/uk.m3u
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="ITV1 UK" group-title="UK",ITV1 UK
+https://iptv-org.github.io/iptv/countries/uk.m3u
+
+# UK Regional (Example - London Live)
+#EXTINF:-1 tvg-id="LondonLive.uk" tvg-name="London Live" group-title="UK Regional",London Live
+https://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+# Ireland National
+#EXTINF:-1 tvg-id="RTEOne.ie" tvg-name="RTE One" group-title="Ireland",RTE One
+https://iptv-org.github.io/iptv/countries/ie.m3u
+#EXTINF:-1 tvg-id="RTE2.ie" tvg-name="RTE 2" group-title="Ireland",RTE 2
+https://iptv-org.github.io/iptv/countries/ie.m3u
+
+# Poland National
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP1" group-title="Poland",TVP1
+https://iptv-org.github.io/iptv/countries/pl.m3u
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat" group-title="Poland",Polsat
+https://iptv-org.github.io/iptv/countries/pl.m3u
