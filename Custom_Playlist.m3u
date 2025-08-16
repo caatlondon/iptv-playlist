@@ -3,3 +3,5 @@
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
 #EXTINF:-1 tvg-id="BBC One London" tvg-name="BBC One London" tvg-logo="https://s4.postimg.org/z61nj8qd9/Bbc_london_logo.jpg" group-title="BBC"
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_london.m3u8
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-chno="3" group-title="UK",ITV1 (Test)
+http://w4.12all.tv:4000/play/itv1/index.m3u8
