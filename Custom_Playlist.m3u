@@ -1,6 +1,3 @@
 #EXTM3U
-# This is a scaffold M3U for the UK Freeview lineup.
-# Replace placeholder URLs with legitimate streams where available.
-# BBC One is set to the London region (service 17536).
-#EXTINF:-1 tvg-id="BBCOne.17536.London" tvg-chno="1" group-title="Freeview UK",BBC One (London)
-https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1_hevc.mpd
+#EXTINF:-1 tvg-id="BBC One HD" tvg-name="BBC One HD" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
